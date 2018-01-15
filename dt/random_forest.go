@@ -3,7 +3,7 @@ package dt
 import (
 	"bufio"
 	"fmt"
-	"log"
+	//"log"
 	"os"
 	"strconv"
 	"strings"
